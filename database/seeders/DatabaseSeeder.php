@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
         $email = 'kesiswaan@smpn1pamekasan.sch.id';
 
         // Password login Wakil Kesiswaan
-        $password = 'kesiswaan123';
+        $password = 'kesiswaan1';
 
         // =====================================================
         // HAPUS USER LAIN
